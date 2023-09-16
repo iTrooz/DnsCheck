@@ -1,0 +1,7 @@
+main: fr.itrooz.dnscheck.Main
+name: DnsCheck
+version: '1.0'
+author: iTrooz_
+description: Whitelist hostnames which are allowed to join a server
+depend:
+  - ProtocolLib
